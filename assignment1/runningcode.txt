@@ -1,0 +1,10 @@
+1.Compile codes
+javac *.java
+
+rmic AddServerImpl
+
+rmiregistry
+
+java AddServer
+
+java AddClient 127.0.0.1 7 8
