@@ -1,0 +1,6 @@
+export MPJ_HOME="mpj_folder_Path_idher_dal"
+
+javac -cp $MPJ_HOME/lib/mpj.jar ScatterGather.java
+
+$MPJ_HOME/bin/mpjrun.sh -np 4 ScatterGather
+
