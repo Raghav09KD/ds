@@ -1,0 +1,501 @@
+Page 18:
+  Paragraph 1 (Line Rect(43.98609924316406, 81.2378158569336, 115.86210632324219, 101.21581268310547)):
+TCFD Pillars
+GOVERNANCE
+AECI Response
+The board’s oversight of climate-related risks and opportunities
+The board takes overall responsibility for AECI’s risk
+management. The board is supported by the risk and the audit
+committees as well as the SESC. The newly constituted SHEC
+provides oversight on critical operational risks. The board and
+committees provide leadership to implement the principles of
+good corporate governance across AECI, ensuring all decisions
+and actions are based on integrity, accountability, equality,
+and transparency.
+Management’s role in assessing and managing climate-related
+risks and opportunities
+The governance structures in place ensure that senior leaders
+within the business are regularly and accurately informed of
+the most important climate-related risks and opportunities.
+Leadership engagements include information on a range of
+relevant topics for robust debate and discussion as required.
+These sessions further inform strategic and operational
+interventions required to align with longer-term obligations.
+The responsibility for sustainability management is specifically
+delegated in the organisation. The recently appointed group
+head: sustainability and ESG, has strategic responsibility for
+sustainability and environmental issues and is supported by
+a group sustainability steering committee and sustainability
+champions from all group operations.
+STRATEGY
+AECI Response
+AECI recognises the risk posed by
+climate change and has taken significant
+action to reduce its GHG emissions.
+Climate change aspects influencing
+AECI’s strategy include:
+� Increasing legislative developments
+that will result in an increasing price
+for carbon, driving the need for a
+reduction in emissions. There are
+initiatives across the group’s global
+operations which require various
+region-specific actions to align with
+our long-term goals
+� Increased legislative developments
+mandating accurate reporting of
+GHG emissions in all jurisdictions
+� Increased focus on reporting of
+Scope 3 emissions to properly
+inform a just transition strategy
+� AECI has committed to a 2050
+Net Zero Goal. Realisation of
+this goal will be supported by
+a refined strategy as required,
+formalised and relevant policies, a
+structured just transition pathway,
+regular monitoring and review and
+adaptation as required
+RISK MANAGEMENT
+AECI Response
+AECI has a robust enterprise risk
+management process in place which has
+matured over several years to become
+an essential management and strategic
+tool. The focus of the risk management
+process is not only on adverse conditions
+potentially facing the business but also
+on the identification of opportunities to
+the advantage of the business and our
+stakeholders. The risk committee of the
+board ensures that relevant risks are
+reviewed and conducts a “deep dive’ into
+selected risks at each meeting, thereby
+keeping the risk register dynamic and
+relevant.
+METRICS AND TARGETS
+AECI Response
+With 2020 marking the start of the
+decade of action on the SDGs, AECI’s
+sustainability strategy process was
+initiated through the identification of
+priority SDGs and associated metrics
+for the management of performance
+and improvement. The group has set
+initial targets for the period up to 2025
+and will be embarking on a process to
+formulate additional targets for the
+period up to 2030.
+AECI currently uses the following
+metrics to track its climate change
+actions:
+� Potable water consumption (m3)
+� Discharge to sea or sewer (m3)
+� GHG emissions (tonnes CO2e)
+� Renewable energy
+� Hazardous waste generated (tonnes)
+� Number of environmental incidents
+Governance approach CONTINUED
+16
+AECI LTD SUSTAINABILITY REPORT 2022
+ONE AECI,
+FOR A BETTER WORLD
+Page 35:
+  Paragraph 1 (Line Rect(43.51969909667969, 57.09267807006836, 139.61270141601562, 69.74667358398438)):
+Environmental stewardship CONTINUED
+Energy management
+During the year, load shedding posed a significant challenge to our operations. This resulted in lower
+electricity usage across our South African operations. In order to manage the reduced assurance of power
+supply, the operations as well as administrative buildings resorted to increased use of diesel powered
+generators. Consequently, while electricity usage deceased, we saw a significant increase in our overall
+energy consumption.
+2025 BASELINE#
+249 609
+TARGET#
+224 047
+DECREASE BY
+8%
+ELECTRICITY CONSUMPTION (MWH)
+2022
+2021
+2020
+2019
+2018
+2017
+217 992
+223 419*
+228 065*
+260 763*Δ
+258 617*Δ
+211 635*
+ENERGY CONSUMPTION (GJ)
+2022
+2021
+2020
+2019
+2018
+2017
+3 390 023*
+2 886 457
+2 930 501*
+3 269 369*Δ
+3 121 388*Δ
+2 320 449*
+*
+Indicates limited assurance
+Δ
+Increase due to inclusion of data from AECI Schirm and AECI Much Asphalt
+#
+Baselines were determined by analysing the data in the respective years of highest production over the period 2017–2019
+Schirm Germany operations were not able to provide supporting evidence for their reported data related to electricity, which is
+included in the group reported figures.
+Managing tenant-occupied sites
+AECI Property Services utilises an energy-efficient approach when planning for all building renovations
+and roof replacements, as well as when removing asbestos sheeting when upgrading buildings. During
+building renovations, careful attention is paid to the maximisation of natural light as this has a significant
+positive impact on energy efficiency.
+Carbon management
+AECI has committed to a 2050 Net Zero Goal and in so doing will implement associated actions across
+our global operations. Just transition will be challenging due to the carbon-intensive nature of our
+production processes, exacerbated by the electricity crisis in South Africa, the lack of security in natural
+gas resources across global markets and carbon trade barriers. A deeper understanding of individual
+activities that make up our Scope 1 and 2 tonnes of CO2 equivalent has enabled us to direct our focus to
+the most carbon-intensive business processes.
+Scope 1 emissions recorded for 2022 were 267 919 tCO₂e, up from 266 291 tCO₂e in 2021.
+This represents an increase of 1% and Scope 2 emissions in 2022 were 225 882 tCO₂e, down from
+235 043 tCO₂e in the prior year, a 4% reduction. The total carbon footprint for the group amounts to
+R 493 801* tCO₂e for 2022.
+The Scope 1 emission increase was driven by higher natural gas consumption at our Schirm Germany
+operations. The Scope 2 emission decrease was achieved through reduced usage of indirect emission
+sources such as purchased electricity. The electricity consumption target for 2025 was achieved in 2022
+with the total usage recorded at 2% below target, despite delays in commissioning our own generation of
+renewable energy.
+With the increasing focus on Scope 3 emissions and the requirement to incorporate Scope 3 emissions
+into Science-Based Targets if these constitute greater than 40% of the total emissions, AECI embarked
+on its first comprehensive Scope 3 emissions inventory in 2022. The initial results of the Scope 3
+quantification exercise indicate that AECI’s Scope 3 emissions are approximately 1 602 633 tCO2e
+for 2022, constituting approximately 77% of AECI’s overall carbon footprint.
+33
+AECI LTD SUSTAINABILITY REPORT 2022
+ONE AECI,
+FOR A BETTER WORLD
+Page 41:
+  Paragraph 1 (Line Rect(43.51969909667969, 83.09681701660156, 383.3021545410156, 95.46281433105469)):
+For more than a decade we have been recognised as the chemical sector’s leader in implementing
+abatement solutions at our own facilities. We became first movers in this regard as far back as 2006,
+at the time implementing technologies that were not available in South Africa. In the process, we have
+pioneered multiple applications and processes that have been adopted and amended by others in our
+sector, including customers, suppliers and competitors.
+Scope 3 emissions
+Reliable Scope 3 calculations are not only a business requisite of growing significance, doing so is a
+competitive differentiator for AECI Mining as many of our products and systems enable our customers
+to reduce their own carbon footprints.
+In 2022, we estimate that our products and systems saved our customers in excess of 55 000 tonnes
+of their own CO2e emissions. This was achieved through clients consuming less diesel and other fuels
+by using our products, and by reducing waste sent to landfill. These estimates will be refined under our
+newly developed Scope 3 calculating capability from 2023 – and reported to customers and other
+stakeholders.
+BETTER MINING IN PRACTICE
+A product that substantially reduces customers’ GHG emissions and saves
+them financial capital is our Emulsion Vertical Drop System (EVDS).
+The EVDS allows emulsion products to be delivered directly from surface to underground workings
+at depths ranging from 35 metres to almost 1 000 metres. The system removes the need for
+much of the equipment traditionally used to transport product from the surface to a mine’s
+respective workplaces, in the process reducing emissions, fuel and electricity consumption.
+Data from one mine deploying the EVDS reflects 90% shorter tramming distances, 71% lower
+tramming times and a 14% reduction in the engine running time of mobile charging units (MCUs)
+as well as a 12% reduction in fuel consumption. This project is now in the process of being
+replicated in other parts of the business.
+Used fuels for explosive formulations
+A decade ago we began replacing virgin oil with recycled oil in our emulsion manufacturing process,
+creating a closed loop system. Since 2021 our Indonesian customers have brought used oil from their
+trucks’ gearboxes, maintenance yards, mechanised mining units, tractors and forklifts to our sites to be
+used as inputs to manufacture emulsions.
+Used oil contains multiple elements that are harmful to the environment and handling this waste in a
+cost-effective and environmentally friendly way is always challenging, especially in countries where safe
+waste disposal mechanisms are not available.
+To end 2022, AECI Mining Explosives had recycled 2 525 000 litres of used oil, avoiding the need for
+such oil to be treated elsewhere or disposed to landfill. Without reducing the bulk explosives’ performance,
+the consumption of used oil in our Eco series replaces diesel which would otherwise be used in the
+manufacturing process.
+Employing used oil in emulsion manufacture is done by South African customers and, increasingly, by
+AECI Mining customers internationally. One such international customer, Indonesia’s PT Kaltim Prima
+Coal has been following this methodology since 2011, progressively ramping up the use of used oil to
+100%. In 2022 the open pit coal mining company saved some 2.3 million litres of diesel as a result.
+Renewable energy
+Consideration of renewable energy supply is not only about reducing our Scope 1 and Scope 2 footprints
+but is also about addressing security of supply at our manufacturing facilities. With this in mind, AECI
+Mining will benefit from daytime solar savings as a result of planned solar installations at its facilities in
+Modderfontein (4 MW installation) and Sasolburg (1.5 MW installation). Both projects remain on track
+for completion during 2023.
+Better Mining CONTINUED
+39
+AECI LTD SUSTAINABILITY REPORT 2022
+ONE AECI,
+FOR A BETTER WORLD
+Page 79:
+  Paragraph 1 (Line Rect(43.58259963989258, 49.08097457885742, 100.24569702148438, 61.44697570800781)):
+APPENDIX A:
+Sustainability-related performance data
+TARGET
+2025
+BASELINE
+2022
+2021
+2020
+2019
+2018
+2017
+ENVIRONMENTAL PERFORMANCE DATA
+GHG emissions
+Scope 1
+tonnes CO2e
+322 025
+402 531
+267 919
+266 291
+334 225
+366 980
+308 216
+351 317
+Scope 2
+tonnes CO2e
+252 163
+273 548
+225 882
+235 043
+241 150
+341 997
+254 234
+216 971
+Scope 3
+1 602 633
+–
+–
+–
+–
+Energy
+Electricity
+MWh
+224 047
+249 609
+217 992
+223 419
+228 065
+260 763
+258 617
+211 635
+Energy consumption#
+GJ
+3 390 023
+2 886 457+
+2 930 501
+3 269 369
+3 121 388
+2 320 449
+Water
+Potable water consumption
+m3
+1 884 566
+2 512 755
+1 793 455
+1 755 929
+2 034 467
+2 289 139
+2 327 113
+2 025 022
+Effluent discharge to sea and sewer
+m3
+686 985
+858 731
+751 880
+722 573
+619 357
+1 182 473
+1 066 593
+1 251 186
+Waste
+Recycled waste#
+tonnes
+3 571
+3 372
+3 288
+6 280
+7 346
+9 644
+Hazardous waste#
+tonnes
+16 783
+14 035
+15 844
+13 134
+10 492
+6 592
+Increased recycled materials
+tonnes
+125 969
+Environmental incidents
+Environmental incidents (Moderate)
+22
+29
+6
+14
+29
+32
+35
+35
+SOCIAL PERFORMANCE DATA
+SHEQ (zero milestone)*
+Fatalities
+Number
+0
+0
+0
+0
+0
+0
+1
+–
+Life-altering injuries
+Number
+0
+0
+0
+0
+1
+2
+3
+–
+* The SHEQ (Zero Milestones) were established in 2018
+# Baseline values and targets to be established in 2022 * The process safety incident rate was only established in 2018
++ Change in calculation applied as of 2022, creating value change from 2021 report
+77
+AECI LTD SUSTAINABILITY REPORT 2022
+ONE AECI,
+FOR A BETTER WORLD
+APPENDICES
+Page 87:
+  Paragraph 1 (Line Rect(43.58259963989258, 77.51701354980469, 101.63800048828125, 89.88301086425781)):
+APPENDIX E: JSE sustainability disclosure guidance metrics index
+ESG Pillar
+Theme
+Metric
+Reference
+Metric Description
+Location
+ENVIRONMENTAL
+GHG Emissions
+E1.1a
+Absolute gross greenhouse gas emissions expressed as metric tonnes of CO2 equivalent and measured in accordance with
+the Greenhouse Gas Protocol for: Scope 1, Scope 2, and Scope 3 emissions. Scope 1 and Scope 2 emissions should be
+disclosed separately for (i) the consolidated accounting group (the parent and its subsidiaries) and (ii) associates, joint ventures,
+unconsolidated subsidiaries or affiliates not included in (i).
+Sustainability Report
+2022: Pg 34–35, 78
+Integrated Report
+2022: Pg 16, 48
+GHG Emissions
+E1.1b
+Scope 3 emissions should include upstream and downstream emissions. The categories of Scope 3 emissions and basis for
+measurement for information provided by entities in the value chain should be disclosed. Recognising the challenges related to
+the disclosure of Scope 3 emissions, including data availability, reasons should be provided when Scope 3 emissions or categories
+of Scope 3 emissions are omitted.
+Sustainability Report
+2022: Pg 26, 34–35,
+40, 78
+Integrated Report
+2022: Pg 48
+GHG Emissions
+E1.1c
+GHG emission intensity for Scope 1, 2 and 3, expressed as metric tonnes of CO2e, expressed as metric tonnes of CO2e per unit
+of physical or economic output.
+Intensity variables will
+be determined during
+the 2023 KPI review
+process
+Energy mix
+E1.2
+Total energy use and share of energy usage by generation type noting use of energy from renewable non-fossil sources, (namely
+wind, solar (solar thermal and solar photovoltaic) and geothermal energy, ambient energy, tide, wave and other ocean energy,
+hydropower, biomass, landfill gas, sewage treatment plant gas, and biogas).
+Sustainability Report
+2022: Pg 34, 37–38,
+40, 78
+Integrated Report
+2022: Pg 9, 48
+Science-based
+targets
+E1.3
+Define and report progress against time-bound short-, medium-, and long-term science-based GHG emissions targets that
+are in line with the goals of the Paris Agreement and Glasgow Climate Pact. This includes reducing global carbon dioxide
+emissions by 45% by 2030 relative to the 2010 level, and to net zero around mid-century, based on the best available scientific
+knowledge and equity, taking into account common but differentiated responsibilities and respective capabilities, and in the
+context of sustainable development and efforts to eradicate poverty. Science-based emissions reduction targets should be
+informed by recognised scientific methodologies and verified through approved processes; they should (as an absolute minimum)
+be consistent with relevant host country/ies’ Nationally Determined Contribution.
+Scope 3 quantification
+has been completed
+and the various
+categories will be
+unpacked as part of
+the 2050 Net Zero
+Pathway
+Just transition
+E1.4a
+Existence and nature of a ‘transition plan’ that commits to stakeholder engagement with affected workers
+and communities (see the JSE Climate Disclosure Guidance for further detail).
+Sustainability Report
+2022: Pg 8–9, 16,
+17–18, 19
+Integrated Report
+2022: Pg 36
+85
+AECI LTD SUSTAINABILITY REPORT 2022
+Page 104:
+  Paragraph 1 (Line Rect(112.7197036743164, 92.99978637695312, 143.8957061767578, 105.73478698730469)):
+Principle
+Recommended Disclosure
+Location
+METRICS AND TARGETS
+An organisation should describe the performance metrics and targets used by the
+organisation to measure, monitor, and manage its sustainability impacts, risks and
+opportunities, and its performance against these metrics and targets.
+In describing how the organisation assesses its climate-related performance, including progress towards the targets it has
+set, the organisation should disclose the following information, including for historical periods, where relevant, to allow for
+trend analysis:
+1) Absolute gross greenhouse gas emissions expressed as metric tonnes of CO2 equivalent and measured in accordance
+with the Greenhouse Gas Protocol for:
+� Scope 1 emissions;
+� Scope 2 emissions.
+Scope 1 and Scope 2 emissions should be disclosed separately for:
+� the consolidated accounting group (the parent and its subsidiaries); and
+� associates, joint ventures, unconsolidated subsidiaries or affiliates not included in (i).
+The approach used (e.g., the Greenhouse Gas Protocol’s equity share or operational control) should be included.
+Sustainability Report 2022: Pg 34, 35, 36, 78
+Integrated Report 2022: Pg 16, 48
+2) Absolute gross greenhouse gas emissions expressed as metric tonnes of CO2 equivalent and measured in accordance
+with the Greenhouse Gas Protocol for Scope 3 emissions including:
+� a breakdown of GHG emissions according to relevant upstream and downstream categories;
+� the basis for measurement used by entities providing information within the organisation’s value chain; and
+� reasons for omitting any particular Scope 3 emissions in the value chain.
+Sustainability Report 2022: Pg 34, 78
+Integrated Report 2022: Pg 48
+3) Greenhouse gas emissions intensity for Scope 1, 2 and 3, expressed as metric tonnes of CO2 equivalent per unit of
+physical or economic output.
+Intensity variables will be determined during the 2023
+KPI review process
+4) The amount and percentage of assets or business activities vulnerable to transition risks.
+AECI will initiate a 2050 Net Zero Pathway in 2023
+which will incorporate transition, physical risks and
+opportunities aspects
+5) The amount and percentage of assets or business activities vulnerable to physical risks.
+6) The amount and percentage of assets or business activities aligned with climate-related opportunities.
+7) The amount of capital expenditure, financing or investment deployed towards climate-related risks and opportunities.
+Integrated Report 2022: Pg 13, 15–16, 17, 20, 42,
+45, 49–50
+8) The internal price of carbon per metric tonne of greenhouse gas emissions that the entity uses to assess the costs of
+its emissions and an explanation of how this is applied in strategy implementation and decision-making.
+To be determined
+APPENDIX F: JSE climate disclosure guidance metrics index CONTINUED
+102
+AECI LTD SUSTAINABILITY REPORT 2022
